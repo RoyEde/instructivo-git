@@ -42,11 +42,13 @@ Git bash puede descargarse desde [**acá**](https://git-scm.com/downloads).
 
 ## Cambios de branch:
 
-#### \*NUNCA usar ninguno de estos comandos con codeblocks abierto. :-1:
+#### \*NUNCA usar ninguno de estos comandos con programas abiertos que no acepten modificaciones de git. :-1:
 
 #### \*SIEMPRE revisar que los cambios se dieron en los archivos. :+1:
 
-1. Una vez que se esté en la carpeta **TP_Integrador**, darle **click derecho** y clikear la opción **git bash here**.
+### Windows
+
+1. Una vez que se esté en la carpeta deseada donde se va a clonar, darle **click derecho** y clikear la opción **git bash here**.
    #### \*SIEMPRE arrancar tirando el comando `git branch` para ver los *branches* disponibles y el _branch_ actual. :+1:
 
 2. Elegir entre:
